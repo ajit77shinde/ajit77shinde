@@ -1,6 +1,6 @@
 # Hi there, I'm Ajit Shinde! 👋
 
-I'm a MERN Stack developer passionate about building web applications and solving complex problems. I enjoy learning new technologies and keeping up with the latest industry trends.
+As a Full Stack Developer with over 6 years of experience in JavaScript and various frameworks, I have developed a strong understanding of how to build scalable, efficient, and maintainable web applications. Throughout my career, I have worked on a range of projects spanning from e-commerce websites to complex enterprise applications, honing my skills in both front-end and back-end development. My expertise includes Angular, React, Vue.js, Node.js, and other modern frameworks and libraries. I enjoy working in fast-paced environments and collaborating with cross-functional teams to create innovative solutions.
 
 ## 🚀 Skills
 
@@ -22,6 +22,6 @@ I am currently learning GraphQL and how to integrate it with a MERN Stack.
 - [LinkedIn](https://www.linkedin.com/in/ajit-shinde-94436b167/)
 <!-- - [Twitter](https://twitter.com/your-twitter-handle) -->
 <!-- - [Portfolio](https://abdulraheem-tau.vercel.app/) -->
-- [Email](ajit77shinde@gmail.com)
+- [Email](mailto:ajit77shinde@gmail.com)
 
 Feel free to reach out to me if you want to collaborate on a project, discuss the latest web development trends or just say hi! 
